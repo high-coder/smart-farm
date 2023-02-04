@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732423278799",
+    "firebase_url": "https://nodemcu-29c03-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nodemcu-29c03",
+    "storage_bucket": "nodemcu-29c03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732423278799:android:a46e6854ed3529f2a2e7ba",
+        "android_client_info": {
+          "package_name": "com.high.coder.node_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732423278799-h0mtvnqqqqvs628q5nrml5pumb08bp0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv-Uz_4btm69yVdT-I7_VSYkHxpzvnky8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732423278799-h0mtvnqqqqvs628q5nrml5pumb08bp0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
